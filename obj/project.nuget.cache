@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "00HCw+EZlq/dHUBiSu/1nCSyzEhYX+YTX2JNF+E7uZm4LTXMQAI2ujOCAMmnSDeCI8vDUI/YHys53LgoS2jTMA==",
+  "success": true,
+  "projectFilePath": "/Users/dinmarom/Desktop/app/app.csproj",
+  "expectedPackageFiles": [
+    "/Users/dinmarom/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
